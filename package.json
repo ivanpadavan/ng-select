@@ -32,7 +32,7 @@
   "esm2015": "esm2015/ng-select.js",
   "fesm5": "fesm5/ng-select.js",
   "fesm2015": "fesm2015/ng-select.js",
-  "typings": "ng-select.d.ts",
+  "typings": "index.d.ts",
   "metadata": "ng-select.metadata.json",
   "sideEffects": false,
   "dependencies": {
