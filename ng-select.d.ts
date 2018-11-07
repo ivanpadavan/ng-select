@@ -2,6 +2,7 @@
  * Generated bundle index. Do not edit.
  */
 export * from '.';
+export * from 'index.d.ts';
 export { ConsoleService as ɵr } from './ng-select/console.service';
 export { NgDropdownPanelComponent as ɵn } from './ng-select/ng-dropdown-panel.component';
 export { NgOptionHighlightDirective as ɵs } from './ng-select/ng-option-highlight.directive';
