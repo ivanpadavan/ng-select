@@ -5,7 +5,7 @@
 /**
  * Generated bundle index. Do not edit.
  */
-export { NgSelectComponent, SELECTION_MODEL_FACTORY, NgSelectModule, NgSelectConfig } from '.';
+export { NgSelectComponent, SELECTION_MODEL_FACTORY, NgSelectModule, NgSelectConfig } from './index';
 export { ConsoleService as ɵr } from './ng-select/console.service';
 export { NgDropdownPanelComponent as ɵn } from './ng-select/ng-dropdown-panel.component';
 export { NgOptionHighlightDirective as ɵs } from './ng-select/ng-option-highlight.directive';
